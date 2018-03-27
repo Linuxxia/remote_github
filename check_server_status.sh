@@ -1,5 +1,6 @@
 #/bin/bash 
 #
+#server status check
 export LANG=en_US.UTF-8
 db_user='fml_yw'
 db_password='J5+%pDaVnj>2'
